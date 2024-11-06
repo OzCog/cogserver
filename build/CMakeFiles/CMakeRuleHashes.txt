@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+06e38ab7c876e844cf686ae9681790cc CMakeFiles/check
+bf6fe206297a83109440b90f22949e75 CMakeFiles/cscope
+e6aa0d7269a7f0ed8be24f3a3f6269c7 tests/shell/ShellUTest.cpp
